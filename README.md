@@ -5,3 +5,4 @@
 
 *variable declaration
 *variable initialization
+*basic operators in python
